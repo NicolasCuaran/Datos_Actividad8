@@ -1,0 +1,11 @@
+idUsuario,nombre,edad,telefono,sexo,telefonoMovil,email
+001,Ana Martinez,28,5551234567,F,5557654321,ana.martinez@email.com
+002,Brian Johnson,34,5552345678,M,5558765432,brian.johnson@email.com
+003,Carla Ramos,22,5553456789,F,5559876543,carla.ramos@email.com
+004,David Lee,45,5554567890,M,5550987654,david.lee@email.com
+005,Elena Torres,31,5555678901,F,5551098765,elena.torres@email.com
+006,Felipe Costa,27,5556789012,M,5552109876,felipe.costa@email.com
+007,Gina Kim,29,5557890123,F,5553210987,gina.kim@email.com
+008,Hugo Sanchez,38,5558901234,M,5554321098,hugo.sanchez@email.com
+009,Iris Lutz,24,5559012345,F,5555432109,iris.lutz@email.com
+010,Jorge Navarro,41,5550123456,M,5556543210,jorge.navarro@email.com

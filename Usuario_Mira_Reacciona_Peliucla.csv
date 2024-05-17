@@ -1,0 +1,30 @@
+idUsuario,idPelicula,fecha,reaccion
+001,009,2021-10-11,Me encanta
+001,001,2020-03-21,Me encanta
+001,006,2023-09-11,Me encanta
+002,008,2022-05-10,No me gusta
+002,004,2021-01-04,Me encanta
+002,003,2022-01-19,Me encanta
+003,006,2022-07-08,No me gusta
+003,009,2022-01-15,No me gusta
+003,008,2021-03-14,Me encanta
+004,003,2020-10-06,Me encanta
+004,009,2022-09-18,No me gusta
+004,009,2023-03-12,No me gusta
+005,005,2021-03-18,No me gusta
+005,006,2022-02-02,Me encanta
+006,003,2021-01-22,No me gusta
+006,005,2023-07-09,Me gusta
+006,001,2020-05-31,Me encanta
+007,008,2023-12-18,No me gusta
+007,009,2021-08-14,Me gusta
+007,008,2021-03-02,Me encanta
+008,005,2021-02-24,No me gusta
+008,008,2021-01-15,Me encanta
+008,007,2020-11-17,No me gusta
+009,004,2022-09-09,Me gusta
+009,002,2023-09-02,Me encanta
+009,010,2021-01-08,Me gusta
+010,005,2021-05-08,No me gusta
+010,004,2021-11-18,No me gusta
+010,006,2021-10-07,Me encanta

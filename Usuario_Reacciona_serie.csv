@@ -1,0 +1,31 @@
+idUsuario,idSerie,fecha,reaccion
+001,001,2020-09-02,No me gusta
+001,003,2023-06-18,No me gusta
+001,006,2021-03-16,No me gusta
+002,009,2022-10-23,Me encanta
+002,002,2023-01-27,No me gusta
+002,004,2022-03-12,Me encanta
+003,006,2022-09-26,Me gusta
+003,008,2021-09-03,Me gusta
+003,010,2022-08-20,Me encanta
+004,005,2021-05-26,Me encanta
+004,007,2022-03-02,Me gusta
+004,001,2020-07-04,No me gusta
+005,003,2023-07-23,Me gusta
+005,006,2023-02-11,Me encanta
+005,009,2022-09-14,No me gusta
+006,010,2022-05-26,Me gusta
+006,002,2021-10-07,Me gusta
+006,004,2020-02-20,No me gusta
+007,007,2022-03-10,Me encanta
+007,008,2021-04-30,Me encanta
+007,010,2021-01-07,Me gusta
+008,005,2020-01-11,No me gusta
+008,006,2021-01-04,Me gusta
+008,009,2021-03-31,Me gusta
+009,002,2023-09-05,Me encanta
+009,004,2023-02-17,Me gusta
+009,006,2023-02-13,Me encanta
+010,007,2020-12-05,No me gusta
+010,005,2022-01-13,Me encanta
+010,001,2021-12-16,Me encanta
